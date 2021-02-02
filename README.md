@@ -1,2 +1,2 @@
-# App_Development_Projects
-This repository contains some apps developed using Kotlin and Android Studio
+# JavaScript_Projects
+This repository contains some practice codes/projects developed using JavaScript
